@@ -7,6 +7,7 @@ Clippsly cMessage is a messaging system designed for use in Roblox games. It all
 - Notification sounds and visual notifications
 - Bad word filter
 - How It Works
+
 Clippsly cMessage consists of two scripts: a client-side script and a server-side script. The client-side script handles the user interface and sends messages to the server. The server-side script receives messages from clients, moderates them if necessary, and broadcasts them to all other clients.
 
 ## Client-Side Script

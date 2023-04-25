@@ -28,4 +28,4 @@ Clippsly ClipMessage is highly customizable. You can change the appearance of th
 ## License
 Clippsly ClipMessage is released under the MIT License. See the LICENSE file for more information.
 
-© 2023 Clippsly Ltd. All rights reserved.
+#### © 2023 Clippsly Ltd. All rights reserved.
